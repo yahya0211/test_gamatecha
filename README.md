@@ -44,6 +44,13 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## localhost running
+```bash
+# swagger ui is running on
+[http://localhost:3000/api#/](http://localhost:3000/api#/)
+
+```
+
 ## Stay in touch
 
 - Author - [Yahya Agung Nadabunda](https://github.com/yahya0211)

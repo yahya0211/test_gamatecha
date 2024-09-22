@@ -10,7 +10,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+(PT Gamatecha Solusi Nusantara)[https://gamatecha.com/] take home test
 
 ## Project setup
 

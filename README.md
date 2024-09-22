@@ -10,7 +10,7 @@
 
 ## Description
 
-(PT Gamatecha Solusi Nusantara)[https://gamatecha.com/] take home test
+[PT Gamatecha Solusi Nusantara](https://gamatecha.com/) take home test
 
 ## Project setup
 
